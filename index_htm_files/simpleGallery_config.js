@@ -20,6 +20,7 @@ var xaraSwidgets_simpleGalleryThumbnailsDownloaded = {};
 var xaraSwidgets_simpleGalleryThumbnailSize = 100;
 var xaraSwidgets_simpleGalleryOriginalWidth = 500;
 
+
 //var xaraSwidgets_simpleGalleryRows = 3;
 //var xaraSwidgets_simpleGalleryCols = 2;
 
@@ -29,7 +30,7 @@ function xaraSwidgets_simpleGalleryOverallConstructor(divID, data, config)
 	var padding = config.padding ? config.padding : 5;
 	var margin = config.margin ? config.margin : 3;
 	panelTrans = (data[0].trans);
-	
+
 	xaraSwidgets_simpleGalleryCols = useCols;
 	xaraSwidgets_simpleGalleryOriginalPadding = padding;
 	xaraSwidgets_simpleGalleryOriginalMargin = margin;
@@ -202,6 +203,8 @@ function xaraSwidgets_simpleGalleryInit(divID, data)
 	
 	entryHTML += '</tr></table>';
 
+	
+
 	// now lets compile the 'main' template which acts as a wrapper for each entry
 	
 	var mainData = {
@@ -254,10 +257,12 @@ function xaraSwidgets_simpleGalleryInit(divID, data)
 		'-moz-box-shadow': shadowCSS,
 		'box-shadow': shadowCSS
 		/* For IE 8 */
-	//	'-ms-filter': "progid:DXImageTransform.Microsoft.Shadow(Strength=" + shadow3 + ", Direction=135, Color='#cccccc')",
+		//'-ms-filter': "progid:DXImageTransform.Microsoft.Shadow(Strength=" + shadow3 + ", Direction=135, Color='#cccccc')"
+
 		/* For IE 5.5 - 7 */
-	//	'filter': "progid:DXImageTransform.Microsoft.Shadow(Strength=" + shadow3 + ", Direction=135, Color='#cccccc')"
-		
+//		'filter': "progid:DXImageTransform.Microsoft.Shadow(Strength=" + shadow3 + ", Direction=135, Color='#000000')"
+//		'filter': "progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='#80000000') "
+
 	}).resize(function() {
 	
 		checkScrollbars(divID);
@@ -287,7 +292,12 @@ function checkScrollbars(divID)
 		});
 	}
 	
+	
+	 
+
 	//console.log($('#' + divID).data('tableWidth'));
 	
 	$('#' + divID).find('.imageTable').width($('#' + divID).data('tableWidth')-2);
+
+	
 }

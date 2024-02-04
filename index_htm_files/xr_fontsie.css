@@ -1,5 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:regular&subset=latin,cyrillic);
 @import url(https://fonts.googleapis.com/css?family=Arimo:700,regular&subset=latin,cyrillic);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:600&subset=latin,cyrillic);
-@font-face {font-family: 'Trebuchet MS';font-weight:normal;font-style:normal;src: url("XaraWDGeneratedHTMLfont1.woff") format("woff"), url("XaraWDEmbeddedHTMLfont1.eot?") format("embedded-opentype"), local('Trebuchet MS'), local('TrebuchetMS');}
-@font-face {font-family: 'Trebuchet MS';font-weight:bold;font-style:italic;src: url("XaraWDGeneratedHTMLfont2.woff") format("woff"), url("XaraWDEmbeddedHTMLfont2.eot?") format("embedded-opentype"), local('Trebuchet MS'), local('TrebuchetMS');}
-@font-face {font-family: 'Palatino Linotype';font-weight:bold;font-style:italic;src: url("XaraWDGeneratedHTMLfont3.woff") format("woff"), url("XaraWDEmbeddedHTMLfont3.eot?") format("embedded-opentype"), local('Palatino Linotype'), local('PalatinoLinotype');}
+@import url(https://fonts.googleapis.com/css?family=Cousine:regular&subset=latin);

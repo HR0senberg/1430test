@@ -1,96 +1,84 @@
-@media screen and (orientation: portrait) and (max-device-width: 714px), screen and (orientation: landscape) and (max-device-height: 714px) {
+@media screen and (orientation: portrait) and (max-device-width: 719px), screen and (orientation: landscape) and (max-device-height: 719px) {
 .xr_mvp_2 {display: block;}
 .xr_mvp_1 {display: none;}
 .xr_pbd {margin-left: -240px;}
-#xr_xr {width: 480px; height: 1463px}
+#xr_xr {width: 480px; height: 1186px}
 }
-@media screen and (orientation: portrait) and (min-device-width: 715px), screen and (orientation: landscape) and (min-device-height: 715px) {
+@media screen and (orientation: portrait) and (min-device-width: 720px), screen and (orientation: landscape) and (min-device-height: 720px) {
 .xr_mvp_2 {display: none;}
 .xr_mvp_1 {display: block;}
-.xr_pbd {margin-left: -475px;}
-#xr_xr {width: 950px; height: 1081px}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 971px}
 }
-@media screen and (orientation: portrait) and (max-device-width: 714px), screen and (orientation: landscape) and (max-device-height: 714px) {
+@media screen and (orientation: portrait) and (max-device-width: 719px), screen and (orientation: landscape) and (max-device-height: 719px) {
 .xr_mvp_4 {display: block;}
 .xr_mvp_3 {display: none;}
 .xr_pbd {margin-left: -240px;}
-#xr_xr {width: 480px; height: 1568px}
+#xr_xr {width: 480px; height: 770px}
 }
-@media screen and (orientation: portrait) and (min-device-width: 715px), screen and (orientation: landscape) and (min-device-height: 715px) {
+@media screen and (orientation: portrait) and (min-device-width: 720px), screen and (orientation: landscape) and (min-device-height: 720px) {
 .xr_mvp_4 {display: none;}
 .xr_mvp_3 {display: block;}
-.xr_pbd {margin-left: -475px;}
-#xr_xr {width: 950px; height: 1676px}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 778px}
 }
-@media screen and (orientation: portrait) and (max-device-width: 714px), screen and (orientation: landscape) and (max-device-height: 714px) {
+@media screen and (orientation: portrait) and (max-device-width: 719px), screen and (orientation: landscape) and (max-device-height: 719px) {
 .xr_mvp_6 {display: block;}
 .xr_mvp_5 {display: none;}
 .xr_pbd {margin-left: -240px;}
-#xr_xr {width: 480px; height: 5159px}
+#xr_xr {width: 480px; height: 1688px}
 }
-@media screen and (orientation: portrait) and (min-device-width: 715px), screen and (orientation: landscape) and (min-device-height: 715px) {
+@media screen and (orientation: portrait) and (min-device-width: 720px), screen and (orientation: landscape) and (min-device-height: 720px) {
 .xr_mvp_6 {display: none;}
 .xr_mvp_5 {display: block;}
-.xr_pbd {margin-left: -475px;}
-#xr_xr {width: 950px; height: 2025px}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 998px}
 }
-@media screen and (orientation: portrait) and (max-device-width: 714px), screen and (orientation: landscape) and (max-device-height: 714px) {
+@media screen and (orientation: portrait) and (max-device-width: 719px), screen and (orientation: landscape) and (max-device-height: 719px) {
 .xr_mvp_8 {display: block;}
 .xr_mvp_7 {display: none;}
 .xr_pbd {margin-left: -240px;}
-#xr_xr {width: 480px; height: 1557px}
+#xr_xr {width: 480px; height: 3600px}
 }
-@media screen and (orientation: portrait) and (min-device-width: 715px), screen and (orientation: landscape) and (min-device-height: 715px) {
+@media screen and (orientation: portrait) and (min-device-width: 720px), screen and (orientation: landscape) and (min-device-height: 720px) {
 .xr_mvp_8 {display: none;}
 .xr_mvp_7 {display: block;}
-.xr_pbd {margin-left: -475px;}
-#xr_xr {width: 950px; height: 1254px}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 1689px}
 }
-@media screen and (orientation: portrait) and (max-device-width: 714px), screen and (orientation: landscape) and (max-device-height: 714px) {
+@media screen and (orientation: portrait) and (max-device-width: 719px), screen and (orientation: landscape) and (max-device-height: 719px) {
 .xr_mvp_10 {display: block;}
 .xr_mvp_9 {display: none;}
 .xr_pbd {margin-left: -240px;}
-#xr_xr {width: 480px; height: 4120px}
+#xr_xr {width: 480px; height: 3920px}
 }
-@media screen and (orientation: portrait) and (min-device-width: 715px), screen and (orientation: landscape) and (min-device-height: 715px) {
+@media screen and (orientation: portrait) and (min-device-width: 720px), screen and (orientation: landscape) and (min-device-height: 720px) {
 .xr_mvp_10 {display: none;}
 .xr_mvp_9 {display: block;}
-.xr_pbd {margin-left: -475px;}
-#xr_xr {width: 950px; height: 1622px}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 1881px}
 }
-@media screen and (orientation: portrait) and (max-device-width: 714px), screen and (orientation: landscape) and (max-device-height: 714px) {
+@media screen and (orientation: portrait) and (max-device-width: 719px), screen and (orientation: landscape) and (max-device-height: 719px) {
 .xr_mvp_12 {display: block;}
 .xr_mvp_11 {display: none;}
 .xr_pbd {margin-left: -240px;}
-#xr_xr {width: 480px; height: 795px}
+#xr_xr {width: 480px; height: 3930px}
 }
-@media screen and (orientation: portrait) and (min-device-width: 715px), screen and (orientation: landscape) and (min-device-height: 715px) {
+@media screen and (orientation: portrait) and (min-device-width: 720px), screen and (orientation: landscape) and (min-device-height: 720px) {
 .xr_mvp_12 {display: none;}
 .xr_mvp_11 {display: block;}
-.xr_pbd {margin-left: -475px;}
-#xr_xr {width: 950px; height: 1117px}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 1777px}
 }
-@media screen and (orientation: portrait) and (max-device-width: 714px), screen and (orientation: landscape) and (max-device-height: 714px) {
+@media screen and (orientation: portrait) and (max-device-width: 719px), screen and (orientation: landscape) and (max-device-height: 719px) {
 .xr_mvp_14 {display: block;}
 .xr_mvp_13 {display: none;}
 .xr_pbd {margin-left: -240px;}
-#xr_xr {width: 480px; height: 2350px}
+#xr_xr {width: 480px; height: 1399px}
 }
-@media screen and (orientation: portrait) and (min-device-width: 715px), screen and (orientation: landscape) and (min-device-height: 715px) {
+@media screen and (orientation: portrait) and (min-device-width: 720px), screen and (orientation: landscape) and (min-device-height: 720px) {
 .xr_mvp_14 {display: none;}
 .xr_mvp_13 {display: block;}
-.xr_pbd {margin-left: -475px;}
-#xr_xr {width: 950px; height: 1261px}
-}
-@media screen and (orientation: portrait) and (max-device-width: 714px), screen and (orientation: landscape) and (max-device-height: 714px) {
-.xr_mvp_16 {display: block;}
-.xr_mvp_15 {display: none;}
-.xr_pbd {margin-left: -240px;}
-#xr_xr {width: 480px; height: 1424px}
-}
-@media screen and (orientation: portrait) and (min-device-width: 715px), screen and (orientation: landscape) and (min-device-height: 715px) {
-.xr_mvp_16 {display: none;}
-.xr_mvp_15 {display: block;}
-.xr_pbd {margin-left: -475px;}
-#xr_xr {width: 950px; height: 1043px}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 969px}
 }
