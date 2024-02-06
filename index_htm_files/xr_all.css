@@ -1,0 +1,84 @@
+@media screen and (max-width: 719px) {
+.xr_mvp_2 {display: block;}
+.xr_mvp_1 {display: none;}
+.xr_pbd {margin-left: -240px;}
+#xr_xr {width: 480px; height: 1252px}
+}
+@media screen and (min-width: 720px) {
+.xr_mvp_2 {display: none;}
+.xr_mvp_1 {display: block;}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 1419px}
+}
+@media screen and (max-width: 719px) {
+.xr_mvp_4 {display: block;}
+.xr_mvp_3 {display: none;}
+.xr_pbd {margin-left: -240px;}
+#xr_xr {width: 480px; height: 539px}
+}
+@media screen and (min-width: 720px) {
+.xr_mvp_4 {display: none;}
+.xr_mvp_3 {display: block;}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 1245px}
+}
+@media screen and (max-width: 719px) {
+.xr_mvp_6 {display: block;}
+.xr_mvp_5 {display: none;}
+.xr_pbd {margin-left: -240px;}
+#xr_xr {width: 480px; height: 539px}
+}
+@media screen and (min-width: 720px) {
+.xr_mvp_6 {display: none;}
+.xr_mvp_5 {display: block;}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 1245px}
+}
+@media screen and (max-width: 719px) {
+.xr_mvp_8 {display: block;}
+.xr_mvp_7 {display: none;}
+.xr_pbd {margin-left: -240px;}
+#xr_xr {width: 480px; height: 539px}
+}
+@media screen and (min-width: 720px) {
+.xr_mvp_8 {display: none;}
+.xr_mvp_7 {display: block;}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 1245px}
+}
+@media screen and (max-width: 719px) {
+.xr_mvp_10 {display: block;}
+.xr_mvp_9 {display: none;}
+.xr_pbd {margin-left: -240px;}
+#xr_xr {width: 480px; height: 953px}
+}
+@media screen and (min-width: 720px) {
+.xr_mvp_10 {display: none;}
+.xr_mvp_9 {display: block;}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 947px}
+}
+@media screen and (max-width: 719px) {
+.xr_mvp_12 {display: block;}
+.xr_mvp_11 {display: none;}
+.xr_pbd {margin-left: -240px;}
+#xr_xr {width: 480px; height: 3600px}
+}
+@media screen and (min-width: 720px) {
+.xr_mvp_12 {display: none;}
+.xr_mvp_11 {display: block;}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 1689px}
+}
+@media screen and (max-width: 719px) {
+.xr_mvp_14 {display: block;}
+.xr_mvp_13 {display: none;}
+.xr_pbd {margin-left: -240px;}
+#xr_xr {width: 480px; height: 991px}
+}
+@media screen and (min-width: 720px) {
+.xr_mvp_14 {display: none;}
+.xr_mvp_13 {display: block;}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 1064px}
+}
