@@ -67,11 +67,12 @@ body {text-align:center;}
 .xr_c_Theme_Color_2 {color:#646464;}
 .xr_c_Website_Backdrop_1 {color:#FFFFFF;}
 .xr_c_Website_Backdrop_2 {color:#F2F2F2;}
+.xr_c_Dark_Text {color:#5A4836;}
 .xr_c_Page_Background {color:#FFFFFF;}
 .xr_c_Theme_Color_4 {color:#D4D4D4;}
-.xr_c_Dark_Text {color:#5A4836;}
 .xr_c_Light_Text {color:#FFFFFF;}
-.xr_bgb0 {background:url('1.png') -768px 2259px repeat;}
+.xr_c_Text {color:#333333;}
+.xr_bgb0 {background:url('1.png') -1276px 2259px repeat;}
 #xr_nb1 {font-family:Times New Roman; font-size:20px; font-weight:bold;}
 #xr_nb1 li:hover > a {background-color:#3F3F3F; color:#D4D4D4;}
 #xr_nb1 li a {color:#D4D4D4; background-color:#646464; padding:2px; padding-right:20px;}
