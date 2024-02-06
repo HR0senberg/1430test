@@ -4,35 +4,23 @@ window.local_simpleGallery3Columns_1_data = [
  showshadow: "Y"
 },
 {
- image: "index_htm_files/114.jpg",
- thumbnail: "index_htm_files/132.jpg"
+ image: "index_htm_files/421.jpg",
+ thumbnail: "index_htm_files/422.jpg"
 },
 {
- image: "index_htm_files/116.jpg",
- thumbnail: "index_htm_files/133.jpg"
+ image: "index_htm_files/423.jpg",
+ thumbnail: "index_htm_files/424.jpg"
 },
 {
- image: "index_htm_files/118.jpg",
- thumbnail: "index_htm_files/134.jpg"
+ image: "index_htm_files/425.jpg",
+ thumbnail: "index_htm_files/426.jpg"
 },
 {
- image: "index_htm_files/120.jpg",
- thumbnail: "index_htm_files/135.jpg"
+ image: "index_htm_files/427.jpg",
+ thumbnail: "index_htm_files/428.jpg"
 },
 {
- image: "index_htm_files/122.jpg",
- thumbnail: "index_htm_files/136.jpg"
-},
-{
- image: "index_htm_files/124.jpg",
- thumbnail: "index_htm_files/137.jpg"
-},
-{
- image: "index_htm_files/126.jpg",
- thumbnail: "index_htm_files/138.jpg"
-},
-{
- image: "index_htm_files/128.jpg",
- thumbnail: "index_htm_files/139.jpg"
+ image: "index_htm_files/411.jpg",
+ thumbnail: "index_htm_files/429.jpg"
 }
 ];
