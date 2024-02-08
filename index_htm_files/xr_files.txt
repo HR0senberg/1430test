@@ -59,8 +59,6 @@ index_htm_files/233.png
 index_htm_files/233@2x.png
 index_htm_files/234.png
 index_htm_files/234@2x.png
-index_htm_files/356.png
-index_htm_files/356@2x.png
 index_htm_files/151.png
 index_htm_files/151@2x.png
 index_htm_files/201.png
@@ -129,3 +127,5 @@ index_htm_files/396.jpg
 index_htm_files/396@2x.jpg
 index_htm_files/397.jpg
 index_htm_files/397@2x.jpg
+index_htm_files/489.png
+index_htm_files/489@2x.png
